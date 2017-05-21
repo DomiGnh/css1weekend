@@ -1,3 +1,8 @@
+body{
+    background-color:#3A3A3A;
+}
+
+
 p 
 {
     color:blueviolet;
@@ -19,4 +24,15 @@ p
     margin-right: 100px;
     border: solid pink;
     font-size:30px;
+}
+
+.lor
+{
+    color:aquamarine;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: dotted aqua;
+    font-size: 30px;
+    padding:5px;
+    
 }
