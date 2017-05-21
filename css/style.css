@@ -69,8 +69,26 @@ h4 ~ p
     color:chartreuse;
 }
 
+/* selektor kolejnego elementu potomnego */
 
+ul > ol:nth-child(2n+0)
+{ color: darkcyan;
+   
+}
 
+/* 2n+0 -zaznacza parzyste*/
+/* licznik elementó od 0 */
+/* zaznzczenie parzystych- 2n+0 lub nth-child(odd) */
+
+/* An+B
+ gdzie:
+A-dowolna liczna
+B-dowlona liczna
+n-licznik od 0
+
+even/odd
+even-parzyste
+odd-nieparzyste */
 
 
 
