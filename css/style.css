@@ -13,6 +13,7 @@ p
     margin-left: 100px;
     margin-right: 100px;
     border: solid aqua;
+    padding: 10px;
 }
 
 /*slektor id*/
@@ -24,6 +25,7 @@ p
     margin-right: 100px;
     border: solid pink;
     font-size:30px;
+    padding:10px;
 }
 
 .lor
@@ -33,6 +35,6 @@ p
     margin-right: 100px;
     border: dotted aqua;
     font-size: 30px;
-    padding:5px;
+    padding: 10px;
     
 }
