@@ -58,7 +58,13 @@ div a
 { 
     color:bisque;
     font-size: 20px;
-    
+    }
+/* slektor bliskiego rodzeńsrwa */
+
+h2 + h3
+{
+    color:aquamarine;
+    font-size: 20px;
 }
 
 
