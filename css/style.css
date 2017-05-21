@@ -2,7 +2,21 @@ p
 {
     color:blueviolet;
     text-align: center;
-    font-size: 18px;
+    font-size: 30px;
     font-family: sans-serif;
     margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid aqua;
+}
+
+/*slektor id*/
+
+#par
+{
+    color: aqua;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid pink;
+    font-size:30px;
 }
