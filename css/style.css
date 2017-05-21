@@ -36,5 +36,18 @@ p
     border: dotted aqua;
     font-size: 30px;
     padding: 10px;
-    
+    }
+a,span,div
+{
+    color:antiquewhite;
+    font-size: 15px;
+    border: solid black;
+    margin-left:100px;
+    margin-right: 100px; 
 }
+
+
+
+
+
+
