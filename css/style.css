@@ -6,14 +6,8 @@ body{
 p 
 {
     color:blueviolet;
-    text-align: center;
     font-size: 30px;
-    font-family: sans-serif;
-    margin-top: 80px;
-    margin-left: 100px;
-    margin-right: 100px;
-    border: solid aqua;
-    padding: 10px;
+    
 }
 
 /*slektor id*/
@@ -64,6 +58,13 @@ div a
 h2 + h3
 {
     color:aquamarine;
+    font-size: 20px;
+}
+
+/* slektor rodzeństwa */
+
+h4 ~ p
+{ color:blanchedalmond;
     font-size: 20px;
 }
 
